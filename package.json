@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@zilliqa-js/crypto": "^3.3.4",
-    "node-fetch": "^3.2.3",
+    "node-fetch": "^3.2.10",
     "socketcluster-client": "^16.0.4"
   },
   "devDependencies": {
